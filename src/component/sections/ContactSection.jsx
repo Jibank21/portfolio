@@ -8,8 +8,8 @@ export default function ContactSection() {
           I’m open to connecting about software development, React JavaScript applications, full-stack projects, dashboards, internal tools, and modern web applications.
         </p>
         <div className="mt-6 flex flex-wrap gap-4 text-sm text-slate-200">
-          <a href="mailto:jib2@gmail.com" className="rounded-2xl border border-white/15 px-4 py-3 transition hover:bg-white/5">
-            jiban3622@gmail.com
+          <a href="mailto:jiban362@gmail.com" className="rounded-2xl border border-white/15 px-4 py-3 transition hover:bg-white/5">
+            jiban362@gmail.com
           </a>
           <a href="https://www.linkedin.com/in/jiban-khadka-4315b3148/" className="rounded-2xl border border-white/15 px-4 py-3 transition hover:bg-white/5">
             LinkedIn Profile

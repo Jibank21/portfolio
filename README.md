@@ -1,16 +1,97 @@
-# React + Vite
+# 👋 Jiban Khadka – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built using React and Vite.  
+This project showcases my work, skills, and experience as a full-stack developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+👉 https://jibank21.github.io/portfolio/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 About Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I’m a Software Developer with experience building scalable, data-driven applications using React, Python (Flask), and PostgreSQL.
+
+I specialize in:
+- Full-stack web development  
+- Real-time data systems  
+- Analytics dashboards  
+- AI-powered applications  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- JavaScript
+- Vite
+- MUI
+- ECharts
+- AG Grid
+
+### Backend
+- Python (Flask)
+- REST APIs
+- Firebase
+
+### Databases
+- PostgreSQL
+- InfluxDB
+- MySQL
+
+### Tools
+- Git
+- IIS
+- Linux
+- Ollama (AI chatbot)
+
+---
+
+## ✨ Featured Projects
+
+### 📊 Spin Trend Tool (STrend)
+- Real-time & historical data visualization using ECharts  
+- Integrated with InfluxDB for time-series data  
+- Secure access via Windows Authentication  
+
+### 🤖 Digital Fingers
+- Full-stack business website built from scratch  
+- Integrated AI chatbot using Ollama  
+- Focused on performance and user experience  
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Jibank21/portfolio.git
+cd portfolio
+
+Install dependencies:
+
+npm install
+
+Run development server:
+
+npm run dev
+
+Build for production:
+
+npm run build
+🚀 Deployment
+
+This project is deployed using GitHub Pages.
+
+To deploy:
+
+npm run deploy
+📫 Contact
+Email: jibank362@gmail.com
+GitHub: https://github.com/Jibank21
+LinkedIn: https://www.linkedin.com/in/jiban-khadka-4315b3148/
