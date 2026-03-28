@@ -4,7 +4,9 @@ export default function Navbar() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <div>
           <h1 className="text-xl font-bold tracking-wide">Jiban Khadka</h1>
-          <p className="text-sm text-slate-400">Software Developer • React (JavaScript) • Flask • PostgreSQL</p>
+          <p className="text-sm text-slate-400">
+            Full-Stack Engineer • Dashboards • Real-Time • AI Systems
+          </p>
         </div>
         <nav className="hidden gap-6 text-sm md:flex">
           <a href="#about" className="transition hover:text-cyan-300">About</a>
