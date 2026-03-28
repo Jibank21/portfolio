@@ -81,16 +81,7 @@ Run development server:
 
 npm run dev
 
-Build for production:
 
-npm run build
-🚀 Deployment
-
-This project is deployed using GitHub Pages.
-
-To deploy:
-
-npm run deploy
 📫 Contact
 Email: jibank362@gmail.com
 GitHub: https://github.com/Jibank21
