@@ -48,16 +48,19 @@ export const experience = [
     ],
   },
   {
-    role: "Freelance Full-Stack Developer",
-    company: "Digital Fingers",
-    points: [
-      "Independently designed and developed a full-stack business website from scratch, handling both frontend and backend architecture.",
-      "Built a responsive and user-friendly interface using React, ensuring optimal performance across devices.",
-      "Developed backend APIs using Python and PostgreSQL to support business workflows and data management.",
-      "Integrated an AI-powered chatbot using Ollama to enable real-time user interaction and support.",
-      "Collaborated directly with business stakeholders to gather requirements and deliver a production-ready solution.",
-    ],
-  },
+  role: "Freelance Full-Stack Developer",
+  company: "Digital Fingers",
+  points: [
+    "Designed and developed a full-stack business platform consisting of a public-facing website and a separate admin dashboard application.",
+    "Built the customer-facing website with React, including service pages, AI chatbot, contact forms, and blog pages for business engagement.",
+    "Developed a dedicated admin dashboard for managing blogs, customer inquiries, chatbot records, and website content.",
+    "Implemented backend APIs with Python Flask and PostgreSQL to support blog publishing workflows, customer message storage, and secure admin operations.",
+    "Created a customer inquiry workflow where contact form submissions from the public website are stored and made available in the admin dashboard for review and reply.",
+    "Enabled administrators to create, edit, publish, and delete blogs through the dashboard with full content management support.",
+    "Integrated an AI-powered chatbot using Ollama to improve customer support and lead capture workflows.",
+    "Delivered the complete system independently, including architecture design, deployment, and stakeholder collaboration."
+  ],
+},
   {
     role: "React Developer Intern",
     company: "Design Consulting",
@@ -107,9 +110,9 @@ export const projects = [
     stack: ["React", "ECharts", "IIS", "Python", "PostgreSQL", "InfluxDB"],
   },
   {
-    title: "Digital Fingers",
-    description:
-      "Built a full-stack business website with a responsive UI and scalable backend. Integrated an AI chatbot using Ollama to provide real-time user support and improve engagement.",
-    stack: ["React", "IIS", "Python", "PostgreSQL", "Ollama"],
-  },
+  title: "Digital Fingers Platform",
+  description:
+    "Built a full-stack multi-application business platform consisting of a public website and a separate admin dashboard. The public platform supports blogs, AI chatbot, and customer inquiry forms, while the admin dashboard enables blog management, customer message review, and response workflows through secure backend APIs.",
+  stack: ["React", "Python", "Flask", "PostgreSQL", "Ollama", "IIS"],
+}
 ];
